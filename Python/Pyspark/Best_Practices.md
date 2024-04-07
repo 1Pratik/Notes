@@ -1,5 +1,5 @@
 ### PySpark 
-- following the best practices guidlines can increase the efficiency, readbility, and maintainability of the code.
+        following the best practices guidlines can increase the efficiency, readbility, and maintainability of the code.
 
 1. #### Use the SparkSession 
     Always use **SparkSessions** to create DataFrame or Dataset objects. It provides a unifie entry point for Spark functionality and replaces **SparkContext**.
